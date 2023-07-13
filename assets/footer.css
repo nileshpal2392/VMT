@@ -1,0 +1,68 @@
+ .ttr_footer_facebook 
+{
+background: url(images/footerfacebook.png);
+background-repeat: no-repeat;
+top:32.48px;
+left:19.90%;
+margin:0;
+height:28px;
+width:28px;
+display:block;
+position:absolute;
+background-size : 100% 100%;
+transform:rotate(0deg);
+-moz-transform:rotate(0deg);
+-webkit-transform:rotate(0deg);
+-o-transform:rotate(0deg);
+}
+ .ttr_footer_linkedin 
+{
+background: url(images/footerlinkedin.png);
+background-repeat: no-repeat;
+top:32.48px;
+left:24.10%;
+margin:0;
+height:28px;
+width:28px;
+display:block;
+position:absolute;
+background-size : 100% 100%;
+transform:rotate(0deg);
+-moz-transform:rotate(0deg);
+-webkit-transform:rotate(0deg);
+-o-transform:rotate(0deg);
+}
+ .ttr_footer_twitter 
+{
+background: url(images/footertwitter.png);
+background-repeat: no-repeat;
+top:32.48px;
+left:28.50%;
+margin:0;
+height:28px;
+width:28px;
+display:block;
+position:absolute;
+background-size : 100% 100%;
+transform:rotate(0deg);
+-moz-transform:rotate(0deg);
+-webkit-transform:rotate(0deg);
+-o-transform:rotate(0deg);
+}
+ .ttr_footer_googleplus 
+{
+background: url(images/footergoogleplus.png);
+background-repeat: no-repeat;
+top:32.48px;
+left:32.83%;
+margin:0;
+height:28px;
+width:28px;
+display:block;
+position:absolute;
+background-size : 100% 100%;
+transform:rotate(0deg);
+-moz-transform:rotate(0deg);
+-webkit-transform:rotate(0deg);
+-o-transform:rotate(0deg);
+}
